@@ -22,3 +22,7 @@ Tests usage:
   3. Run command: "python3 test.py"
   4. Enter binary file name.
   5. Follow terminal messages.  
+
+This tool has been tested on:
+- Ubuntu 14.04 + Python 3.4
+- Ubuntu 18.04 + Python 3.6
